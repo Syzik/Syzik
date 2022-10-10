@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Je suis Pentester / joueur de CTF. Vous pouvez me trouver sur <a href="https://twitter.com/SyzikSecu">Twitter</a>.
+Vous pouvez me trouver sur <a href="https://twitter.com/SyzikSecu">Twitter</a>.
 </p>
 
 ---
