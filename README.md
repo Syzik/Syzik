@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Vous pouvez me trouver sur <a href="https://twitter.com/SyzikSecu">Twitter</a>.
+Je share des trucs sur <a href="https://twitter.com/SyzikSecu">Twitter</a>.
 </p>
 
 ---
