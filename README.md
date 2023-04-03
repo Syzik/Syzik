@@ -7,14 +7,11 @@ Je share des trucs sur <a href="https://twitter.com/SyzikSecu">Twitter</a>.
 
 ---
 
-<p align="center">
-<a href="https://github.com/syzik/Syzik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syzik&include_all_commits=true&custom_title=syzik's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
-</a>
-<a href="https://github.com/syzik/syzik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syzik&hide_title=false&exclude_repo=syzik.github.io,https://github.com/Syzik/Client_iot&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff&hide=javascript,html,css,objective-c,typescript" />
-</a>
-</p>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syzik&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=syzik&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syzik&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syzik&theme=nord_dark&utcOffset=8)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syzik&hide=Html&theme=nord_dark) |
+| :-: | :-: | :-: |
 
 ---
 
